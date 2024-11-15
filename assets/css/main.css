@@ -3941,3 +3941,8 @@ body.is-ie #wrapper > section > .content > section {
     padding: 4rem;
   }
 }
+
+/* header do download */
+#wrapper > section:nth-child(5) > header {
+  text-align: center;
+}
